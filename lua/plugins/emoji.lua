@@ -1,5 +1,4 @@
-return {
-  -- Emoji picker con Telescope
+return { -- Emoji picker con Telescope
   {
     "hrsh7th/nvim-cmp",
     dependencies = {
