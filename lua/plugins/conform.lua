@@ -3,15 +3,6 @@ return {
   opts = {
     formatters_by_ft = {
       astro = { "prettier" },
-      javascript = { "prettier" },
-      typescript = { "prettier" },
-      javascriptreact = { "prettier" },
-      typescriptreact = { "prettier" },
-      css = { "prettier" },
-      html = { "prettier" },
-      json = { "prettier" },
-      yaml = { "prettier" },
-      markdown = { "prettier" },
     },
     formatters = {
       prettier = {
