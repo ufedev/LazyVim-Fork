@@ -1,4 +1,6 @@
-# 💤 LazyVim
+# 💤 LazyVim Fork
 
 A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
 Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+
+- Emojis with : 👏
