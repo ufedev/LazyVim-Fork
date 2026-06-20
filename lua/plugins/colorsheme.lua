@@ -6,7 +6,7 @@ return {
       colors = {}, -- Override default colors
       highlights = {}, -- Override default highlight groups
       styles = {
-        types = "NONE",
+        types = "bold",
         methods = "NONE",
         numbers = "NONE",
         strings = "NONE",
@@ -19,6 +19,9 @@ return {
         parameters = "NONE",
         conditionals = "italic",
         virtual_text = "NONE",
+      },
+      options = {
+        transparency = true,
       },
     },
   },
