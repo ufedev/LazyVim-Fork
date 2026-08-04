@@ -4,7 +4,9 @@ return {
     priority = 1000, -- Ensure it loads first
     opts = {
       colors = {}, -- Override default colors
-      highlights = {}, -- Override default highlight groups
+      highlights = {
+        visual = { bg = "#00598A" },
+      }, -- Override default highlight groups
       styles = {
         types = "bold",
         methods = "NONE",
@@ -15,7 +17,7 @@ return {
         constants = "NONE",
         functions = "italic",
         operators = "NONE",
-        variables = "NONE",
+        variables = "bold",
         parameters = "NONE",
         conditionals = "italic",
         virtual_text = "NONE",
